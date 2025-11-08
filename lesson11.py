@@ -7,7 +7,6 @@ while True:
     print("3. keluar")
     pilihan = input("pilih opsi (1/2/3): ")
 
-
     if pilihan =="1":
         item = input("masukan item yang ingin ditambah:")
         daftar_belanja.append(item)
