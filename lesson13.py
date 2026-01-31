@@ -4,4 +4,4 @@ hari = input("masukkan hari:")
 if hari in hari_libur:
     print(f"{hari} adalah hari libur!")
 else:
-    print(f"{hari}adalah hari kerja.")
+    print(f"{hari} adalah hari kerja.")

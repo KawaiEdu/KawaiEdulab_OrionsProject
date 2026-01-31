@@ -20,4 +20,4 @@ while True:
         print("terima kasi telah menggunakkan program ini!")
         break
     else:
-        print("pilihan tidak valid, coba lagi.")
+        print("pilihan tidak valid, coba lagi.")+
